@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/61b4cf35-77cc-466e-92d1-72cd9d944d26/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/DashboardReact",
+    "appService.deploySubpath": "."
+}
